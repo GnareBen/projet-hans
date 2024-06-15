@@ -4,7 +4,7 @@ export const Entreprise = () => {
     return (
         <section className="mb-24 container mx-auto">
             <div className="mb-24">
-                <h2 className="text-center text-5xl font-bold mb-12 text-blue-700">N'GATCHI</h2>
+                <h2 className="text-center text-5xl font-bold mb-12 text-blue-700">NGATCHI</h2>
                 <div className="grid grid-cols-2 space-x-10 justify-between items-center">
                     <div className="">
                         <Image
