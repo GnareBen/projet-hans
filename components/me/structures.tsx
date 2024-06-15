@@ -9,7 +9,7 @@ let structures = [
 
 export const Structures = () => {
   return (
-    <section className="container mx-auto mb-36">
+    <section className="container mx-auto mb-36 mt-20">
       <h1 className="text-3xl md:text-4xl font-bold mb-6">Nos structures</h1>
       <div className="grid grid-cols-1 xl:grid-cols-3 md:grid-cols-3 gap-4 md:gap-4 justify-items-center place-content-start">
         {structures.map((structure, index) => (
